@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99379768644",
+    "project_id": "miss--aw",
+    "storage_bucket": "miss--aw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99379768644:android:0b5193db12f7decd3dbb11",
+        "android_client_info": {
+          "package_name": "com.anniewang.truthseeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99379768644-31hv1mr9s4jam4gqqaudoj66otaf7ft0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnfK7KQ6unSFn4IUqcN4wkS2dgDnpy7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99379768644-31hv1mr9s4jam4gqqaudoj66otaf7ft0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
